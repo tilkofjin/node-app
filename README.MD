@@ -1,6 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=gruvbox)
-
-
 Uses Node.js Express MongoDB with Google OAuth for authentication
 
 ## Usage
