@@ -1,4 +1,5 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tilkofjin&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tilkofjin&show_icons=true&theme=gruvbox)
+
 
 Uses Node.js Express MongoDB with Google OAuth for authentication
 
